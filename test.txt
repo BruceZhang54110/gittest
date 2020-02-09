@@ -4,3 +4,4 @@ this is three commit
 this is third commit.
 this is a fourth commit
 this is a five commit zhangxx
+版本回退之后，修改文件重新提交
